@@ -155,5 +155,5 @@ require('expose?getFormFields!./lib/get-form-fields.js');
       xWon = false;
       oWon = false;
       turn = 0;
-      moveFirst();
+  
   });
